@@ -9,7 +9,7 @@ The expected output (with the start key as 1) should look as follows:
 
 | output mesh traverse |
 | ---- |
-| <img src="https://github.com/augmentedfabricationlab/afab_course/blob/master/04_datastructures/assignment/images/mesh_traverse.jpeg" width="440px" a/> |
+| <img src="images/mesh_traverse.jpeg" width="440px" a/> |
 
 ## 2 - Network traverse
 
@@ -20,4 +20,4 @@ The expected output (with the start key as 20) should look as follows:
 
 | output network traverse |
 | ---- |
-| <img src="https://github.com/augmentedfabricationlab/afab_course/blob/master/04_datastructures/assignment/images/network_traverse.jpeg" width="440px" a/> |
+| <img src="images/network_traverse.jpeg" width="440px" a/> |
