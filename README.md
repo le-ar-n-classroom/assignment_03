@@ -21,3 +21,5 @@ The expected output (with the start key as 20) should look as follows:
 | output network traverse |
 | ---- |
 | <img src="images/network_traverse.jpeg" width="440px" a/> |
+
+In some newer Compas versions there might be an issue with the Network Artist. In this case, use [assignment_2_network_traverse_workaround_networkartist.ghx](assignment/assignment_2_network_traverse_workaround_networkartist.ghx), otherwise you can ignore that file.
